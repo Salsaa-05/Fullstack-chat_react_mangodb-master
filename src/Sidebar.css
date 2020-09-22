@@ -28,7 +28,7 @@ flex:0.35
 .sidebar__search{
     display: flex;
     align-items: center;
-    background-color: #f6f6f6;
+    background-color: lightgray;
     height: 39px;
     padding: 10px;
 }
