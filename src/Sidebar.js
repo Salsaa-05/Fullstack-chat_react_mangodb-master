@@ -11,7 +11,7 @@ function Sidebar() {
         <div className="sidebar">
 
             <div className="sidebar__header">
-                <Avatar src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjM0MDYyNTM4MjUy/johnny-depp-9542522-1-402.jpg" />
+                <Avatar src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/p720x720/68706794_1301702716657160_995134065533255680_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=oGgPqY_ce70AX-dLnZ2&_nc_ht=scontent-mxp1-1.xx&tp=6&oh=8e00155963f2c201a27895021bc68594&oe=5F8E2E24" />
 
                 <div className="sidebar__headerRight">
                     <IconButton>

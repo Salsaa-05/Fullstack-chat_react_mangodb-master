@@ -6,8 +6,8 @@ function SidebarChat() {
         <div className="sidebarChat">
             <Avatar />
             <div className="sidebarChat__info">
-                <h2>Carlos</h2>
-                <p>last massge</p>
+                <h2>NaNa</h2>
+                <p>KEEP IT UP !</p>
             </div>
         </div>
     );

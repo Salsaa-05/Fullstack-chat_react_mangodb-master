@@ -27,11 +27,12 @@ flex:0.65
 
 .chat__body{
     flex: 1;
-    background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+    background-image: url(./Images/Sascan-pdd.png);
 background-repeat: repeat;
 background-position:center ;
-padding: 30px;
+padding: 10px;
 overflow: scroll;
+border-radius: 1cm;
 }
 
 .chat__message{
@@ -40,7 +41,7 @@ overflow: scroll;
     padding: 10px;
     width:fit-content;
     border-radius: 10px;
-background-color:white;
+background-color:rgb(0, 0, 0);
 margin-bottom: 30px;
 }
 .chat__timestamp{
@@ -56,7 +57,7 @@ margin-bottom: 30px;
 
 .chat__reciever{
     margin-left: auto;
-    background-color:  #dcf8c6;
+    background-color:  #000000;
 }
 
 .chat__footer{
