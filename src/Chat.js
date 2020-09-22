@@ -6,12 +6,20 @@ import InsertEmoticonIcon from '@material-ui/icons/InsertEmoticon';
 import MicIcon from '@material-ui/icons/Mic';
 
 
+// function pic() {
+//     if (const i = 1 , i = 2 , i++) {
+        
+//     }
+// }
+
 function Chat() {
 
    
 
 
     return (
+
+        
         <div className="chat">
             <div className="chat__header">
                 <Avatar />
@@ -25,7 +33,7 @@ function Chat() {
                     </IconButton>
 
                     <IconButton>
-                        <AttachFile />
+                        <AttachFile onClick={()=> {this.pic()}}/>
                     </IconButton>
 
                     <IconButton >
