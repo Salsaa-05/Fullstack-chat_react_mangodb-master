@@ -6,11 +6,7 @@ import InsertEmoticonIcon from '@material-ui/icons/InsertEmoticon';
 import MicIcon from '@material-ui/icons/Mic';
 
 
-// function pic() {
-//     if (const i = 1 , i = 2 , i++) {
-        
-//     }
-// }
+
 
 function Chat() {
 
